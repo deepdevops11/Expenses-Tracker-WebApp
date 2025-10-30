@@ -1,6 +1,6 @@
 #———stage1 - jar builder ————-
 
-# Maven image
+# Maven image for docker anshu bhai
 
 FROM maven:3.8.3-openjdk-17 AS builder 
 
